@@ -1,0 +1,9 @@
+api_host: http://localhost:8443/boot-kotlin
+
+KOTLIN_APPLICATION:
+  DBHOST: localhost
+  DBNAME: kotlin_application
+  DBPORT: 3306
+  DBUSER: root
+  DBPASS: password
+

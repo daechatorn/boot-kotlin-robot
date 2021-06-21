@@ -1,0 +1,2 @@
+user_info:
+  get_all: /api/v1/user

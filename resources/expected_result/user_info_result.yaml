@@ -1,0 +1,4 @@
+user_info_result:
+  TC_0000002: {
+    "phoneNo": ["11111", "222222"]
+  }
